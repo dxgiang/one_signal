@@ -1,4 +1,4 @@
-# bizzone_notification
+# One Signal
 
 A new Flutter module project.
 
